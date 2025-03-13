@@ -1,0 +1,9 @@
+{
+    "name": "<model service name>",
+    "implementation": "custom_runtime.WeedDetectionRuntime",
+    "parameters": {
+      "uri": "./runs/detect/train/weights/best.pt"
+    }
+  }
+  
+  
